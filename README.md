@@ -2,3 +2,4 @@
 repositório teste de autenticações
 -autenticação via nome user e senha 
 -autenticação via token de acesso pessoal
+-teste de autenticação via SSH
