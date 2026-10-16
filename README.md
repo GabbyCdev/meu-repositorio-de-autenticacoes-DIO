@@ -14,11 +14,10 @@
 
 ### 🎯 Objetivos Práticos
 
-Abaixo está o checklist de tarefas propostas para esta etapa. Marque com um `x` entre os colchetes conforme for concluindo (ex: `-[x]`):
 
 - [X] **1.** Criar um repositório local e conectá-lo ao GitHub (remoto)
 - [X] **2.** Clonar um repositório remoto para o ambiente local
 - [X] **3.** Fazer alterações no código (`add` > `commit` > `push`)
-- [ ] **4.** Criar e navegar para uma nova Branch
-- [ ] **5.** Abrir um Pull Request e realizar o Merge
-- [ ] **6.** Realizar o Fork de um repositório de terceiros
+- [x] **4.** Criar e navegar para uma nova Branch
+- [x] **5.** Abrir um Pull Request e realizar o Merge
+- [x] **6.** Realizar o Fork de um repositório de terceiros
