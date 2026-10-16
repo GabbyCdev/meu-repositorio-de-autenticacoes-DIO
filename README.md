@@ -1,0 +1,24 @@
+# 📚 Repositório de Aula - DIO
+
+> Repositório destinado a testes de versionamento e práticas de autenticação do bootcamp da Digital Innovation One (DIO).
+
+## 🔐 Tipos de Autenticações Testadas
+
+- [x] Autenticação via nome de usuário e senha
+- [x] Autenticação via Token de Acesso Pessoal (PAT)
+- [x] Autenticação via chaves SSH
+
+---
+
+## 🛠️ Parte 2: Formação em Git e GitHub
+
+### 🎯 Objetivos Práticos
+
+Abaixo está o checklist de tarefas propostas para esta etapa. Marque com um `x` entre os colchetes conforme for concluindo (ex: `-[x]`):
+
+- [X] **1.** Criar um repositório local e conectá-lo ao GitHub (remoto)
+- [X] **2.** Clonar um repositório remoto para o ambiente local
+- [X] **3.** Fazer alterações no código (`add` > `commit` > `push`)
+- [ ] **4.** Criar e navegar para uma nova Branch
+- [ ] **5.** Abrir um Pull Request e realizar o Merge
+- [ ] **6.** Realizar o Fork de um repositório de terceiros
