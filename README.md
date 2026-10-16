@@ -8,8 +8,6 @@
 - [x] Autenticação via Token de Acesso Pessoal (PAT)
 - [x] Autenticação via chaves SSH
 
----
-
 ## 🛠️ Parte 2: Formação em Git e GitHub
 
 ### 🎯 Objetivos Práticos
